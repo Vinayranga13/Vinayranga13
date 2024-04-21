@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayranga13&label=Profile%20views&color=0e75b6&style=flat" alt="vinayranga13" /> </p>
 
-- 🔭 I’m currently working on **Lucy**
+- 🔭 I’m currently working on **Lucy (A Open World SP Game)**
 
 - 🌱 I’m currently learning **Generative AI, LLMs, Substrate, Automata Theory**
 
