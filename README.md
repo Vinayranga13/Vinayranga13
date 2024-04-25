@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/17Y2S4X4tkGjF2GA4nK7NY041D9xEGUuK?usp=sharing](https://drive.google.com/drive/folders/17Y2S4X4tkGjF2GA4nK7NY041D9xEGUuK?usp=sharing)
 
 - ⚡ Fun fact **I love cycling**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vinayranga13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vinayranga13" height="30" width="40" /></a>
