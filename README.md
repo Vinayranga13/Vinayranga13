@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love cycling**
 
-- 🕸️ My Website : [https:vinay.journoportfolio.com]
+- 🕸️ My Website : [https://vinay.journoportfolio.com]
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
