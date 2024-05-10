@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vinay</h1>
-<h3 align="center">Passionate Software Developer</h3>
+<h3 align="center">Im a Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayranga13&label=Profile%20views&color=0e75b6&style=flat" alt="vinayranga13" /> </p>
 
