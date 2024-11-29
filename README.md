@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C#, Unity, Python, Data Analysis**
 
-- 📫 How to reach me **vinayrngk@gmail.com**
+- 📫 How to reach me **vinayranga502@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/17Y2S4X4tkGjF2GA4nK7NY041D9xEGUuK?usp=sharing](https://drive.google.com/drive/folders/17Y2S4X4tkGjF2GA4nK7NY041D9xEGUuK?usp=sharing)
 
